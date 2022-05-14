@@ -45,11 +45,11 @@ Input the dataword vector. E.g. [1 0 0 1] (Note: Make sure to add spaces between
 
 The following image will provide an idea:
 
-<img src="images/input.PNG">
+<img src="images/input.png">
 
 OUTPUT
 ===
 
 The output of the program will be a series of bar graphs. The X coordinate contains the generators and the y coordinate contains percentage probability of error detection. The data on top of each bar represents percentage error detection and percentage error correction.
 
-<img src="images/graph1.PNG" width="90%">
+<img src="images/graph1.png" width="90%">
